@@ -1,0 +1,31 @@
+.products{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+}
+
+.title{
+    margin-top: 0;
+    margin-left: 30vw;
+    font-size: 50px;
+}
+
+.product{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 100px;
+}
+
+.R{
+    padding: 2vw;
+    background-color: silver;
+}
+
+.SR{
+    padding: 2vw;
+    background-color: gold;
+}
+
+.SSR{
+    padding: 2vw;
+    background-color: red;
+}
+
