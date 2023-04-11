@@ -2,7 +2,7 @@
 
 @section('title', 'Products')
 
-{{-- @section('meta_description',{{ $products["desc"]}}->meta_description) --}}
+@section('detail', 'Product Detail')
 
 @section('container')
     <h1 class="title">PRODUCT LIST</h1>

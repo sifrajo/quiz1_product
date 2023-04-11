@@ -5,7 +5,7 @@
 
 .title{
     margin-top: 0;
-    margin-left: 30vw;
+    margin-left: 32vw;
     font-size: 50px;
 }
 
@@ -17,15 +17,27 @@
 .R{
     padding: 2vw;
     background-color: silver;
+    border-radius: 20px;
 }
 
 .SR{
     padding: 2vw;
     background-color: gold;
+    border-radius: 20px;
 }
 
 .SSR{
     padding: 2vw;
     background-color: red;
+    border-radius: 20px;
 }
 
+.back{
+    padding: 1vw;
+    background-color: pink;
+    border-radius: 10px;
+}
+
+.img{
+    width: 20vw;
+}
